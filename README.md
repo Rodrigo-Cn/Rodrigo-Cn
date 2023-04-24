@@ -9,21 +9,14 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rodrigo-Js" h height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rodrigo-C"  height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Rodrigo-Jupyter" height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
-  <img align="center" alt="Rodrigo-Aditanti" height="40" width="52" src="https://adianti.com.br/images/logo_full.svg">
-  <img align="center" alt="Rodrigo-CPLUS" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplusoriginal.svg">
   <img align="center" alt="Rodrigo-Java" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Rodrigo-PHP" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="center" alt="Rodrigo-APACHE" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg">
   <img align="center" alt="Rodrigo-MySQL" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Rodrigo-POSTGRESQL" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Rodrigo-LINUX" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Rodrigo-UBUNTU" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" width="52" alt="laravel logo"  />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="52" alt="django logo"  />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="52" alt="android logo"  />
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="css3 logo"  />

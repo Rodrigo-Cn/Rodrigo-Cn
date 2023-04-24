@@ -2,8 +2,8 @@
 
  <div>
   <a href="https://github.com/Rodrigo-Cn"> 
-  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=icaro2222&theme=default"/>
-  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaro2222&layout=demo&theme=default"/> 
+  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Cn&theme=default"/>
+  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Cn&layout=demo&theme=default"/> 
 
 </div>
 <div style="display: inline_block"><br>
@@ -41,6 +41,6 @@
   <a href = "rodrigo321.costa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  ![Snake animation](https://github.com/icaro2222/icaro2222/blob/output/github-contribution-grid-snake.svg) 
+  ![Snake animation]()
  
 </div>

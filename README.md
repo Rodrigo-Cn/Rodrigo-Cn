@@ -1,4 +1,4 @@
-## Rodrigo Costa, graduado em Análise e Desenvolvimento de Sistemas no IFBaiano Campus Guanambi, algoritmo é vida.
+## Rodrigo Costa, graduado em Análise e Desenvolvimento de Sistemas no IFBaiano Campus Guanambi, Algoritmo é Vida.
 
  <div>
   <a href="https://github.com/Rodrigo-Cn"> 

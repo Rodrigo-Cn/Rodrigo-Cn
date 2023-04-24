@@ -1,4 +1,4 @@
-## Rodrigo Costa, graduado em Análise e Desenvolvimento de Sistemas no IFBaiano Campus Guanambi, e mestre dos algoritmos.
+## Rodrigo Costa, graduado em Análise e Desenvolvimento de Sistemas no IFBaiano Campus Guanambi, algoritmo é vida.
 
  <div>
   <a href="https://github.com/Rodrigo-Cn"> 

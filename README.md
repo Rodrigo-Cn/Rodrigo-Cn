@@ -26,7 +26,7 @@
   <img align="right" alt="Rodrigo-Rick" alt="Rodrigo-Jupyter" height="200"
        src="https://media4.giphy.com/media/SvGFA2WF9IP0WjmzvE/giphy.gif?cid=ecf05e478g3q3e8x0x4fo6sfmrn77n5jhxsarlfwoehx1ziv&rid=giphy.gif&ct=s">
    <img align="right" alt="Rodrigo-Rick" alt="Rodrigo-Jupyter" height="200"
-       src="https://media4.giphy.com/media/SvGFA2WF9IP0WjmzvE/giphy.gif?cid=ecf05e478g3q3e8x0x4fo6sfmrn77n5jhxsarlfwoehx1ziv&rid=giphy.gif&ct=s](https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif)">
+       src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif">
  </div>
  
 <div> 

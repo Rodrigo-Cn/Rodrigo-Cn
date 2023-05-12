@@ -21,15 +21,15 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="css3 logo"  />
  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/800px-Google_Colaboratory_SVG_Logo.svg.png?20221103151432" height="40" width="52" alt="colab logo"  />
  
-   <img align="center" alt="Rodrigo-Rick" alt="Rodrigo-Jupyter" height="200" 
+   <img align="right" alt="Rodrigo-Rick" alt="Rodrigo-Jupyter" height="200" 
        src="https://media3.giphy.com/media/kyKuZzsa6bShl3SaHe/giphy.webp?cid=ecf05e47be9arzoipfbakno73j0wqu8j7gprb0dz9ugpioef&rid=giphy.webp&ct=s">
-  <img align="center" alt="Rodrigo-Rick" alt="Rodrigo-Jupyter" height="200"
+  <img align="right" alt="Rodrigo-Rick" alt="Rodrigo-Jupyter" height="200"
        src="https://media4.giphy.com/media/SvGFA2WF9IP0WjmzvE/giphy.gif?cid=ecf05e478g3q3e8x0x4fo6sfmrn77n5jhxsarlfwoehx1ziv&rid=giphy.gif&ct=s">
 </div>
  
 <div> 
-  <a href="https://www.instagram.com/rodrigocn_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/rodrigocn_/" target="_blank" align="center"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="linkedin" target="_blank" align="center"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   ![Snake animation]()
  

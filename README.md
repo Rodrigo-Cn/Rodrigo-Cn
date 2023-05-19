@@ -1,4 +1,4 @@
-## Rodrigo Costa, graduado em Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia Baiano. Algoritmo é Vida.
+## Rodrigo Costa, graduando em Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia Baiano. Algoritmo é Vida.
 
  <div>
   <a href="https://github.com/Rodrigo-Cn"> 

@@ -22,9 +22,6 @@
  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/800px-Google_Colaboratory_SVG_Logo.svg.png?20221103151432" height="40" width="52" alt="colab logo"  />
  </div>
  
-    <img align="right" alt="RodrigoDeveloper" alt="Rodrigo-Jupyter" height="200"
-       src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif">
- 
 <div> 
   <a href="https://www.instagram.com/rodrigocn_/" target="_blank" align="center"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="linkedin" target="_blank" align="center"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

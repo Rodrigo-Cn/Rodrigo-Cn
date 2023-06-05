@@ -3,7 +3,7 @@
  <div>
   <a href="https://github.com/Rodrigo-Cn"> 
   <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Cn&theme=default"/>
-  <img align="center" height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=top-comengineer&theme=radical"/> 
+  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=top-comengineer&langs_count=10&layout=compact&theme=radical"/> 
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rodrigo-Js" h height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

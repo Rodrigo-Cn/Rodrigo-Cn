@@ -3,7 +3,7 @@
  <div>
   <a href="https://github.com/Rodrigo-Cn"> 
   <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Cn&theme=default"/>
-  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Cn&layout=demo&theme=default"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Cn&layout=compact&   langs_count=7&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -33,10 +33,3 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Rodrigo-Cn}/count.svg" /></p> 
 <br></div>
- 
-<div align="center">
-<a href="https://github.com/luciana-santos">
-<img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=luciana-santos&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciana-santos&layout=compact&langs_count=7&theme=tokyonight"/>
-</a>
-</div>

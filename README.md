@@ -34,7 +34,3 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Rodrigo-Cn}/count.svg" /></p> 
 <br></div>
- 
- <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="rodrigo-costa-411038255" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/rodrigo-costa-411038255?trk=profile-badge">Rodrigo Costa</a></div>
-
-              

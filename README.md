@@ -2,8 +2,8 @@
 
  <div>
   <a href="https://github.com/Rodrigo-Cn"> 
-  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=top-comengineer&show_icons=true&include_all_commits=true&count_private=true&theme=radical"/>
-  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=top-comengineer&langs_count=10&layout=compact&theme=radical"/> 
+  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Cn&show_icons=true&include_all_commits=true&count_private=true&theme=radical"/>
+  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Cn&langs_count=10&layout=compact&theme=radical"/> 
 </div>
  
  

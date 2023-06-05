@@ -2,9 +2,11 @@
 
  <div>
   <a href="https://github.com/Rodrigo-Cn"> 
-  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Cn&theme=default"/>
+  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=top-comengineer&show_icons=true&include_all_commits=true&count_private=true&theme=radical"/>
   <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=top-comengineer&langs_count=10&layout=compact&theme=radical"/> 
 </div>
+ 
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rodrigo-Js" h height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />

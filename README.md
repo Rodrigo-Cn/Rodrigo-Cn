@@ -4,8 +4,8 @@
   <a href="https://github.com/Rodrigo-Cn"> 
   <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Cn&show_icons=true&include_all_commits=true&count_private=true&theme=radical"/>
   <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Cn&langs_count=10&layout=compact&theme=radical"/> 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Cn&layout=compact&theme=rose_pine" alt="Top Langs" height="175">
-   <img src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Cn&show_icons=true&theme=rose_pine" alt="GitHub Stats" height="175">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Cn&show_icons=true&theme=rose_pine" alt="GitHub Stats" height="175">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Cn&layout=compact&theme=rose_pine" alt="Top Langs" height="175">
 </div>
  
  

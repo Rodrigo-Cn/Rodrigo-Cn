@@ -26,6 +26,7 @@
  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/800px-Google_Colaboratory_SVG_Logo.svg.png?20221103151432" height="40" width="52" alt="colab logo"  />
  </div>
  <br>
+ <br>
 ## Contato Profissional:
 <div> 
    <a href = "mailto:rodrigo321.costa321@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

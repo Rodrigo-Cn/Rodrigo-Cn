@@ -14,7 +14,7 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
   <img align="center" alt="Rodrigo-C"  height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Rodrigo-Java" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-  <img align="center" src="https://avatars.githubusercontent.com/u/139426?s=200&v=4" height="40" width="52" alt="angular logo"  />
+  <img align="center" src="https://avatars.githubusercontent.com/u/139426?s=200&v=4" height="40" width="40" alt="angular logo"  />
   <img align="center" alt="Rodrigo-PHP" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="center" alt="Rodrigo-MySQL" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Rodrigo-MariaDb" height="40" width="40" src="https://avatars.githubusercontent.com/u/4739304?s=200&v=4">

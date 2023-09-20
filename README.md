@@ -35,10 +35,6 @@
  
 </div>
  <br>
- 
- ## Troféus GitHub
-![](https://github-profile-trophy.vercel.app/?username=Rodrigo-Cn&theme=radical&no-frame=false&no-bg=true&margin-w=2)
- <br>
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Rodrigo-Cn}/count.svg" /></p> 

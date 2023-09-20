@@ -8,7 +8,7 @@
 <br>
 
 ## Habilidades:
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Rodrigo-Js" h height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="40" width="40" alt="typescript logo"  />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
@@ -29,7 +29,6 @@
  <br>
  
 ## Contato Profissional:
- <br>
 <div> 
   <a href = "mailto:rodrigo321.costa321@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/rodrigocn_/" target="_blank" align="center"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

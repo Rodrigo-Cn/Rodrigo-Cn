@@ -27,6 +27,7 @@
  </div>
  <br>
  <br>
+ <hr>
 Contatos:
  <br>
  <br>

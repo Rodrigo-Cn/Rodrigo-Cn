@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Cn&layout=compact&theme=rose_pine" alt="Top Langs" height="175">
 </div>
 <br>
-## Habilidades
+## Habilidades:
 <div style="display: inline_block"><br>
   <img align="center" alt="Rodrigo-Js" h height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="40" width="40" alt="typescript logo"  />

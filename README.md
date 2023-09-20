@@ -36,7 +36,7 @@
 </div>
  <br>
  
- ## 🏆 GitHub Trophies
+ ## Troféus GitHub
 ![](https://github-profile-trophy.vercel.app/?username=Rodrigo-Cn&theme=radical&no-frame=false&no-bg=true&margin-w=4)
  <br>
 <div align="center">

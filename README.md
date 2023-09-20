@@ -37,7 +37,7 @@
  <br>
  
  ## Troféus GitHub
-![](https://github-profile-trophy.vercel.app/?username=Rodrigo-Cn&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Rodrigo-Cn&theme=radical&no-frame=false&no-bg=true&margin-w=2)
  <br>
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  

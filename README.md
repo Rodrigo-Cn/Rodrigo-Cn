@@ -1,7 +1,7 @@
 ## Rodrigo Costa, graduando em Análise e Desenvolvimento de Sistemas no [Instituto Federal de Educação Ciência e Tecnologia Baiano](https://ifbaiano.edu.br/portal/ads-guanambi/).
 <br>
 <div align="center">
- <img src="https://media0.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=790b761192b7c3bea4652e26b424e3d12f0af4f58b95daae&rid=giphy.gif&ct=s" width="180" align="center"/>
+ <img src="https://media0.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=790b761192b7c3bea4652e26b424e3d12f0af4f58b95daae&rid=giphy.gif&ct=s" width="50%" align="center"/>
 </div>
 
 <br>

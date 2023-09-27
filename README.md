@@ -1,5 +1,10 @@
 ## Rodrigo Costa, graduando em Análise e Desenvolvimento de Sistemas no [Instituto Federal de Educação Ciência e Tecnologia Baiano](https://ifbaiano.edu.br/portal/ads-guanambi/).
-
+<br>
+<br>
+<p align="center">
+  <a href="https://github.com/Rodrigo-Cn">
+  <img src="./img/header.png" alt="Sniper" /></a>
+</p>
  <div>
   <a href="https://github.com/Rodrigo-Cn"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Cn&show_icons=true&theme=rose_pine" alt="GitHub Stats" height="175">

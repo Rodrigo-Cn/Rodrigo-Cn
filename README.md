@@ -8,7 +8,8 @@
  <div align="center">
   <a href="https://github.com/Rodrigo-Cn"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Cn&show_icons=true&theme=rose_pine" alt="GitHub Stats" height="175">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Cn&layout=compact&theme=rose_pine" alt="Top Langs" height="175"">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Cn&layout=compact&langs_count=7&theme=dracula" alt="Top Langs" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Cn&layout=compact&theme=rose_pine" alt="Top Langs" height="175">
 </div>
 <br>
 

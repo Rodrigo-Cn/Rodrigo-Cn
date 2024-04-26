@@ -16,7 +16,7 @@
   <img align="center" alt="Rodrigo-Js" h height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="40" width="40" alt="typescript logo"  />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
-  <img align="center" src="https://avatars.githubusercontent.com/u/139426?s=200&v=4" height="40" width="40" alt="angular logo"  />
+  <img align="center" src="https://avatars.githubusercontent.com/u/139426?s=200&v=4](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png?size=48" height="40" width="52" alt="react logo"  />
   <img align="center" alt="Rodrigo-Java" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Rodrigo-C"  height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Rodrigo-PHP" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">

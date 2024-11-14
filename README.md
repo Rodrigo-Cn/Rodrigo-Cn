@@ -19,9 +19,9 @@
    <img align="center" alt="Rodrigo-Laravel" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="58" alt="python logo"  />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="52" alt="django logo"  />
-  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg?size=48" height="45" width="52" alt="react logo"  />
+  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" height="42" width="45" alt="react logo"  />
   <img align="center" alt="Rodrigo-MySQL" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg](https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg)" height="40" width="52" alt="android logo"  />
+  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" height="40" width="52" alt="android logo"  />
  </div>
  <br>
  <br>

@@ -19,10 +19,9 @@
    <img align="center" alt="Rodrigo-Laravel" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="58" alt="python logo"  />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="52" alt="django logo"  />
-  <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png?size=48" height="45" width="52" alt="react logo"  />
+  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg?size=48" height="45" width="52" alt="react logo"  />
   <img align="center" alt="Rodrigo-MySQL" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Rodrigo-MariaDb" height="40" width="40" src="https://avatars.githubusercontent.com/u/4739304?s=200&v=4">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="52" alt="android logo"  />
+  <img align="center" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg](https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg)" height="40" width="52" alt="android logo"  />
  </div>
  <br>
  <br>

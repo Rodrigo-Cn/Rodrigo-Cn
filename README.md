@@ -22,7 +22,6 @@
   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" height="42" width="45" alt="react logo"  />
   <img align="center" alt="Rodrigo-MySQL" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Rodrigo-PostgreSQL" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg">
-  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" height="40" width="52" alt="android logo"  />
  </div>
  <br>
  <br>

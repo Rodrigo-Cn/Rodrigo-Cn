@@ -38,8 +38,3 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rodrigo-Cn&theme=onestar&no-frame=true&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
  
 </div>
- <br>
-<div align="center">
-<br><p align="centre"><b>Contador de Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Rodrigo-Cn}/count.svg" /></p> 
-<br></div>

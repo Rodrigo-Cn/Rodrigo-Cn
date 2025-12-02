@@ -1,4 +1,4 @@
-## Meu nome é Rodrigo Costa, sou desenvolvedor full stack, sou graduado em Análise e Desenvolvimento de Sistemas no [Instituto Federal de Educação Ciência e Tecnologia Baiano](https://ifbaiano.edu.br/portal/ads-guanambi/).
+## Meu nome é Rodrigo Costa, sou desenvolvedor full stack, graduado em Análise e Desenvolvimento de Sistemas no [Instituto Federal de Educação Ciência e Tecnologia Baiano](https://ifbaiano.edu.br/portal/ads-guanambi/).
 <br>
 
 <br>

@@ -4,7 +4,17 @@ Sou desenvolvedor **Full Stack**, graduado em **Análise e Desenvolvimento de Si
 [Instituto Federal de Educação, Ciência e Tecnologia Baiano (IF Baiano)](https://ifbaiano.edu.br/portal/ads-guanambi/).
 
 Atuo no desenvolvimento de aplicações web modernas, com foco em boas práticas, código limpo,
-organização e aprendizado contínuo.
+organização e aprendizado contínuo. Trabalho com maior frequência utilizando as seguintes tecnologias:
+**HTML, CSS, JavaScript, Tailwind CSS, Angular, PHP, Laravel, Python, Django e SQL**.
+
+Possuo conhecimentos em arquitetura de software, microsserviços e bancos de dados relacionais,
+aplicando boas práticas de desenvolvimento, organização de código e foco em performance e manutenibilidade.
+
+Tenho experiência tanto no **front-end**, criando interfaces responsivas e intuitivas, quanto no
+**back-end**, desenvolvendo APIs, regras de negócio e integrações com bancos de dados.
+
+Estou sempre em busca de aprimorar minhas habilidades técnicas e acompanhar novas tecnologias,
+com o objetivo de entregar soluções eficientes, escaláveis e de qualidade.
 
 ---
 
@@ -26,6 +36,12 @@ organização e aprendizado contínuo.
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats-7hti.vercel.app/api?username=Rodrigo-Cn&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Rodrigo Costa GitHub Stats">
+</p>
+
+---
+
 ## 📫 Contato Profissional
 
 <div>
@@ -39,5 +55,3 @@ organização e aprendizado contínuo.
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
-
----

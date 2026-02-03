@@ -55,10 +55,3 @@ organização e aprendizado contínuo.
 </div>
 
 ---
-
-## 🏆 Conquistas no GitHub
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rodrigo-Cn&theme=algolia&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-> ⚠️ Os troféus representam métricas automáticas do GitHub e podem variar ao longo do tempo.
-> O foco principal está na qualidade dos projetos e na evolução profissional.

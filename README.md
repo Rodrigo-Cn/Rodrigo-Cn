@@ -3,18 +3,13 @@
 Sou desenvolvedor **Full Stack**, graduado em **Análise e Desenvolvimento de Sistemas** pelo  
 [Instituto Federal de Educação, Ciência e Tecnologia Baiano (IF Baiano)](https://ifbaiano.edu.br/portal/ads-guanambi/).
 
-Atuo no desenvolvimento de aplicações web modernas, com foco em boas práticas, código limpo,
-organização e aprendizado contínuo. Trabalho com maior frequência utilizando as seguintes tecnologias:
-**HTML, CSS, JavaScript, Tailwind CSS, Angular, PHP, Laravel, Python, Django e SQL**.
+Atuo no desenvolvimento de aplicações web modernas, com foco em boas práticas, código limpo, organização e aprendizado contínuo. Tenho maior experiência com tecnologias como HTML, CSS, JavaScript, Tailwind CSS, Angular, PHP, Laravel, Python, Django e SQL, aplicando soluções eficientes e bem estruturadas.
 
-Possuo conhecimentos em arquitetura de software, microsserviços e bancos de dados relacionais,
-aplicando boas práticas de desenvolvimento, organização de código e foco em performance e manutenibilidade.
+Possuo conhecimentos sólidos em arquitetura de software, microsserviços e bancos de dados relacionais, sempre priorizando performance, manutenibilidade e qualidade do código. Busco estruturar aplicações escaláveis, seguras e de fácil evolução.
 
-Tenho experiência tanto no **front-end**, criando interfaces responsivas e intuitivas, quanto no
-**back-end**, desenvolvendo APIs, regras de negócio e integrações com bancos de dados.
+Tenho experiência tanto no front-end, desenvolvendo interfaces responsivas, intuitivas e acessíveis, utilizando frameworks modernos, quanto no back-end, atuando no desenvolvimento de APIs, implementação de regras de negócio, integração com bancos de dados e manutenção de sistemas.
 
-Estou sempre em busca de aprimorar minhas habilidades técnicas e acompanhar novas tecnologias,
-com o objetivo de entregar soluções eficientes, escaláveis e de qualidade.
+Estou constantemente em busca de evolução técnica, acompanhando novas tecnologias e tendências do mercado, com o objetivo de entregar soluções robustas, escaláveis e de alto valor.
 
 ---
 
@@ -29,7 +24,7 @@ com o objetivo de entregar soluções eficientes, escaláveis e de qualidade.
   <img align="center" alt="Laravel" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/>
   <img align="center" alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="center" alt="Django" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
-  <img align="center" alt="Vue.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
+  <img align="center" alt="Angular" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"/>
   <img align="center" alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   <img align="center" alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 </div>

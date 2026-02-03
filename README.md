@@ -8,20 +8,6 @@ organização e aprendizado contínuo.
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/Rodrigo-Cn">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Cn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_rank=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Cn&layout=compact&langs_count=6&theme=algolia&hide=html,css"/>
-  </a>
-</div>
-
-> ℹ️ As estatísticas acima são ajustadas para evitar distorções causadas por arquivos de template
-> e focam nas linguagens realmente utilizadas nos projetos.
-
----
-
 ## 🛠️ Tecnologias e Ferramentas
 
 <div style="display: inline_block">
